@@ -5,6 +5,7 @@ Welcome to the Spotify Clone project! This repository showcases a sleek and resp
 Features
 
 🎨 Modern UI: Inspired by Spotify's design, built for an immersive user experience.
+
 ⚡ Dynamic Components: React-based components for seamless functionality.
 
 
