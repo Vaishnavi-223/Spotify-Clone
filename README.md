@@ -6,7 +6,7 @@ Features
 🎨 Modern UI: Inspired by Spotify's design, built for an immersive user experience.
 ⚡ Dynamic Components: React-based components for seamless functionality.
 
-![image](https://github.com/user-attachments/assets/6c2ed7af-4fd7-4cce-bf7b-cdb677ddc9a3)
+
 
 
 
